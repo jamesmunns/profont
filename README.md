@@ -14,6 +14,16 @@
 
 ProFont is available in 7 sizes:
 
+| Size   | Text X   | Text Y    | Horiz. Spacing    |
+| :---   | :-----   | :-----    | :----             |
+|  7 pt. | 5        | 10        | 0                 |
+|  9 pt. | 6        | 11        | 0                 |
+| 10 pt. | 6        | 12        | 1                 |
+| 12 pt. | 7        | 15        | 1                 |
+| 14 pt. | 10       | 17        | 0                 |
+| 18 pt. | 12       | 22        | 0                 |
+| 24 pt. | 16       | 29        | 0                 |
+
 ### 7 Point
 
 ![7 Point ProFont](https://raw.githubusercontent.com/wezm/profont/master/tools/data/ProFont7Point.png)
